@@ -1,0 +1,64 @@
+Ingredient,Properties,Usage,Skin_Type,Avoid_With,Recommended_With,Function_Category,Skin_Friendliness_Score
+Aqua,Solvent (water base),Base for formulations,All,None,All ingredients,Solvent / Carrier,5
+Water,Solvent (water base),Base for formulations,All,None,All ingredients,Solvent / Carrier,5
+3-0-Ethy Ascorbic Acid,Vitamin C (antioxidant); brightens and protects,Antioxidant serums for brightening and photoprotection,All,Strong acids/retinol in same routine (may increase irritation),"Vitamin E, Ferulic acid, Sunscreen",Antioxidant / Anti-aging,4
+Agave Americana Leaf Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Alcohol Denat.,"Solvent, antiseptic; can be drying","Preservative/solvent, quick-drying formulation",Oily,Dry or sensitive skin products; potent actives if high concentration,"Surfactants, other solvents (in formulations)",Solvent / Carrier,2
+Allantoin,"Soothing, skin-protecting agent","Soothing creams, after-sun, gentle products",Sensitive,None,"Moisturizers, Panthenol",Soothing / Repair,5
+Aristotella Chilensts Fruit Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Ascorbyl Glucoside,Vitamin C (antioxidant); brightens and protects,Antioxidant serums for brightening and photoprotection,All,Strong acids/retinol in same routine (may increase irritation),"Vitamin E, Ferulic acid, Sunscreen",Antioxidant / Anti-aging,4
+Ascorbyl Tetraisopalmitate,Vitamin C (antioxidant); brightens and protects,Antioxidant serums for brightening and photoprotection,All,Strong acids/retinol in same routine (may increase irritation),"Vitamin E, Ferulic acid, Sunscreen",Antioxidant / Anti-aging,4
+Bayrespermum Parkil Butter,Lipid/emollient; moisturizes and softens skin,Emollient in creams/ointments,Dry,None,"Humectants, Ceramides",Emollient,4
+Beta Vulgaris (Beet) Root Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Boswellia Serrata Resin Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Butylene Glycol,Emollient and solvent,All,All,None,None,Other,3
+C12-15 Alkyl Benzoate,Emollient,All,All,None,None,Other,3
+Caprylhydroxamic Acid,Acidic active; exfoliant/active,Active treatment (exfoliant/brightening),Oily,Other strong acids/retinoids (irritation risk),"Moisturizers, Sunscreen",Exfoliant,3
+Ceramide Ap,Lipid that restores barrier; essential for moisture retention,"Barrier repair creams, moisturizers",Dry,None,"Hyaluronic Acid, Cholesterol, Fatty acids",Barrier Repair,5
+Ceramide Eop,Lipid that restores barrier; essential for moisture retention,"Barrier repair creams, moisturizers",Dry,None,"Hyaluronic Acid, Cholesterol, Fatty acids",Barrier Repair,5
+Ceramide Np,Lipid that restores barrier; essential for moisture retention,"Barrier repair creams, moisturizers",Dry,None,"Hyaluronic Acid, Cholesterol, Fatty acids",Barrier Repair,5
+Cetearyl Alcohol,Fatty alcohol; emollient and emulsifier,Creams and lotions for texture and moisturizing,All,Rare fatty alcohol sensitivity,"Emollients, Ceramides",Emollient,4
+Cetyl Alcohol,Fatty alcohol; emollient and emulsifier,Creams and lotions for texture and moisturizing,All,Rare fatty alcohol sensitivity,"Emollients, Ceramides",Emollient,4
+Caprylic/Capric Triglyceride,Fatty alcohol; emollient and emulsifier,Creams and lotions for texture and moisturizing,All,Rare fatty alcohol sensitivity,"Emollients, Ceramides",Emollient,4
+Cholesterol,Lipid/emollient; moisturizes and softens skin,Emollient in creams/ointments,Dry,None,"Humectants, Ceramides",Emollient,4
+Citric Acid,"pH adjuster, exfoliant (AHA)",All,Oily,Other strong acids/retinoids (irritation risk),"Moisturizers, Sunscreen",Exfoliant,3
+Cyclopentasiloxane,Silicone-based smoothing agent; occlusive,"Primers, moisturizers for smoothing",All,None,Humectants,Emollient / Occlusive,4
+Dibutyl Adipate,Emollient,All,All,None,None,Other,3
+Diisopropyl Adipate,Emollient,All,All,None,None,Other,3
+Dimethicone,"Silicone; occlusive, smooths texture","Moisturizers, primers, leave-on products",All,None (can trap comedogenic ingredients in rare cases),"Emollients, Humectants",Emollient / Occlusive,4
+Distarch Phosphate,"Texture enhancer, absorbent",All,All,None,None,Other,3
+Ethylhexylglycerin,Humectant; draws and retains water,"Moisturizer, Hydration booster",All,None,"Hyaluronic Acid, Ceramides, Emollients",Hydrator,5
+Euterpo Oleracea Fruit Extract,Lipid/emollient; moisturizes and softens skin,Emollient in creams/ointments,Dry,None,"Humectants, Ceramides",Emollient,4
+Fragaria Chiloensis (Strawberry) Fruit Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Fragaria Choers S Feat Extract Lycium Chinense Fruit Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Frat Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Glycerin,Humectant; draws and retains water,"Moisturizer, Hydration booster",All,None,"Hyaluronic Acid, Ceramides, Emollients",Hydrator,5
+Glycery Stearate,Humectant; draws and retains water,"Moisturizer, Hydration booster",All,None,"Hyaluronic Acid, Ceramides, Emollients",Hydrator,5
+Glyceryl Stearate,Emulsifier,All,All,None,"Hyaluronic Acid, Ceramides, Emollients",Hydrator,5
+Glycyrrhiza Inflata Root Extract,"Soothing, anti-inflammatory",All,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Hyaluronic Acid,Humectant; retains moisture,Hydration serums and creams,All,None,"Glycerin, Ceramides",Hydrator,5
+Isobutylamido Thiazolyl Resorcinol,Skin brightener (anti-pigmentation),All,All,None,None,Other,3
+Magnesium Ascorbyl Phosphate,Vitamin C (antioxidant); brightens and protects,Antioxidant serums for brightening and photoprotection,All,Strong acids/retinol in same routine (may increase irritation),"Vitamin E, Ferulic acid, Sunscreen",Antioxidant / Anti-aging,4
+Morus Nigra Frult Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Niacinamide,"Vitamin B3; barrier support, brightening, sebum regulation","Serums, moisturizers for brightening and barrier",All,Very strong acids (use pH-separated routines),"Hyaluronic Acid, Ceramides, Peptides",Barrier / Brightening,5
+Oryza Sativa (Rice) Bran Oil,Lipid/emollient; moisturizes and softens skin,Emollient in creams/ointments,Dry,None,"Humectants, Ceramides",Emollient,4
+Phenoxyethanol,Preservative,All,All,None,None,Other,3
+Potyglyceryl-6 Laurats,Humectant; draws and retains water,"Moisturizer, Hydration booster",All,None,"Hyaluronic Acid, Ceramides, Emollients",Hydrator,5
+Retinol,Vitamin A derivative; increases cell turnover,"Anti-aging, acne treatments",Aging,"Strong acids, benzoyl peroxide; use alternate nights","Moisturizers, Niacinamide (with care)",Anti-aging / Retinoid,2
+Ribes Nigrum Fruit Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Rubus Fruticosus Fruit Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Rubus Idacus Frult Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Sodium Ascorbyl Phosphate,Vitamin C (antioxidant); brightens and protects,Antioxidant serums for brightening and photoprotection,All,Strong acids/retinol in same routine (may increase irritation),"Vitamin E, Ferulic acid, Sunscreen",Antioxidant / Anti-aging,4
+Sodium Chloride,"Thickener, viscosity adjuster",All,All,None,None,Other,3
+Sodium Hyaluronate,"Humectant, hydrator (salt form of hyaluronic acid)","Serums, moisturizers for hydration",All,None,"Glycerin, Ceramides, Niacinamide",Hydrator,5
+Sorbitan Oleate,Lipid/emollient; moisturizes and softens skin,Emollient in creams/ointments,Dry,None,"Humectants, Ceramides",Emollient,4
+Stearic Acid,Acidic active; exfoliant/active,Active treatment (exfoliant/brightening),Oily,Other strong acids/retinoids (irritation risk),"Moisturizers, Sunscreen",Exfoliant,3
+Tetrahexyldecyl Ascorbate,Vitamin C (antioxidant); brightens and protects,Antioxidant serums for brightening and photoprotection,All,Strong acids/retinol in same routine (may increase irritation),"Vitamin E, Ferulic acid, Sunscreen",Antioxidant / Anti-aging,4
+Tocopherol,"Vitamin E; antioxidant, emollient",Stabilize Vitamin C; moisturizing antioxidant,All,Generally safe,"Vitamin C, Ferulic Acid",Antioxidant / Emollient,5
+Tocopheryl Acetate,Antioxidant (Vitamin E),All,All,None,None,Other,3
+Trisodium Edta,Chelating agent,All,All,None,None,Other,3
+Vaccinium Myrtillus Fruit Extract Oryza Sativa (Rice) Bran Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Vanilla Planifolia Fruit Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Voce Macrocarpon Fruit Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4
+Xanthan Gum,"Thickener, stabilizer",All,All,None,None,Other,3
+Yogurt Extract,Botanical extract; antioxidant/soothing potential,Added for antioxidant or soothing properties,All,None,"Antioxidants, Moisturizers",Antioxidant / Botanical,4

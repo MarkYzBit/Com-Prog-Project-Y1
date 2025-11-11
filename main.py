@@ -9,8 +9,6 @@ import spacy
 from spacy.matcher import PhraseMatcher
 
 def preprocess_image_bytes(url, target_dpi_scale = 1.5):
-    #nparr = np.frombuffer(image_bytes, np.uint8)
-    #img = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
     img = cv2.imread(url)
     if target_dpi_scale > 1.0:
         img = cv2.resize(img, None, fx=target_dpi_scale, fy=target_dpi_scale, interpolation=cv2.INTER_CUBIC)

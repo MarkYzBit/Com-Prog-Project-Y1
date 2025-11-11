@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 import pytesseract
 from thefuzz import process, fuzz
-from PIL import Image
 import matplotlib.pyplot as plt
 import pandas as pd
 import spacy
